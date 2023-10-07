@@ -75,8 +75,9 @@
     gap: 0.1px;
 }
 .para{
-    
+    width: 400px;
     color: black;
+    font-size: 30px;
 }
 .middle{
 display: flex;
@@ -104,8 +105,57 @@ justify-content: space-between;
     width: 400px;
     margin-left: 1rem ;
 }
-.rightchrome{
-    margin-left: 3rem ;
-    display: flex;
-    width: 600px;
+.chrome{
+    border: 0.1rem solid black;
+    width: 1300px;
+    height: 600px;
+    margin: 1rem;
 }
+.company{
+    display: flex;
+    width: 400px;
+    margin-left: 30px;
+    color: white;
+}
+.enterprise{
+    display: flex;
+    margin-left: 30px;
+    color: white;
+}
+.chrome{
+    background-color: #13544E;
+}
+.para1{
+    color: white;
+    margin-left: 30px;
+}
+.cap1{
+    color: white;
+    margin-left: 30px;
+}
+.cap2{
+    color: white;
+    margin-left: 30px;
+}
+.cap3{
+    color: white;
+    margin-left: 30px;
+}
+.learn{
+    width: 150px;
+    height: 40px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 20px;
+    align-items: center;
+    color: #13544E;
+}
+.chrome{
+    display: flex;
+    border: 0.1rem solid black;
+    justify-content: space-between;
+}
+
