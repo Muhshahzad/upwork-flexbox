@@ -1,0 +1,111 @@
+.logo{
+    
+    width: 120px;
+    padding-left: 0.1rem;
+    display: flex;
+    justify-content: center;
+    color:#14A800 ;
+}
+.leftheading{
+    display: flex;
+    
+}
+.ul{
+    
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 350px;
+    align-items: center;
+    padding-right: 0.2rem;
+    
+}
+.heading{
+    border: 0.1rem solid grey;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+.rightheading{
+    display: flex;
+    width: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.signup{
+    background-color: hsl(113, 100%, 33%);
+    width: 80px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.search{
+    
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-around;
+
+}
+.topside ul{
+   
+    list-style-type: none;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px;
+
+
+}
+.leftmiddle{
+    display: flex;
+    align-items: flex-start;
+   
+}
+.how{
+    color: #14A800;
+    margin-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: flex-start;
+    gap: 0.1px;
+}
+.para{
+    
+    color: black;
+}
+.middle{
+display: flex;
+justify-content: space-between;
+}
+.rightmiddle{
+    
+    margin: 50px;
+}
+.start{
+    background-color: #14A800;
+    color: white;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+.trus{
+    margin-left: 3rem;
+    color: #9AAA9A;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: 1rem ;
+}
+.rightchrome{
+    margin-left: 3rem ;
+    display: flex;
+    width: 600px;
+}
